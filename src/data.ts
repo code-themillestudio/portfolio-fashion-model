@@ -77,7 +77,7 @@ import GalleryHighFashionImg15 from './assets/images/gallery/high-fashion/high-f
 import GalleryHighFashionImg16 from './assets/images/gallery/high-fashion/high-fashion-15.jpg';
 import GalleryHighFashionImg17 from './assets/images/gallery/high-fashion/high-fashion-16.jpg';
 
-import GalleryTiffanyImgCover from './assets/images/gallery/tiffany/Tiffany-Co-002.jpg';
+import GalleryTiffanyImgCover from './assets/images/gallery/tiffany/tiffany-co-002.jpg';
 import GalleryTiffanyImg1 from './assets/images/gallery/tiffany/Tiffany-Co-2.jpg';
 import GalleryTiffanyImg2 from './assets/images/gallery/tiffany/Tiffany-Co-3.jpg';
 import GalleryTiffanyImg3 from './assets/images/gallery/tiffany/tiffany-2.jpg';
