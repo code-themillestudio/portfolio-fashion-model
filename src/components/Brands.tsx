@@ -81,11 +81,11 @@ export default function Brands({ darkMode }: BrandsProps) {
                 id={`brand-panel-${activeBrand.id}`}
               >
                 {/* Visual Campaign block */}
-                <div className="md:col-span-5 h-60 md:h-full min-h-80 relative bg-neutral-950 overflow-hidden">
+                <div className="md:col-span-5 h-full min-h-80 relative bg-neutral-950 overflow-hidden">
                   <img
                     src={activeBrand.image}
                     alt={activeBrand.name}
-                    className="w-full h-full object-cover grayscale brightness-90 hover:scale-[1.03] transition-transform duration-[1.5s]"
+                    className="w-full h-full object-cover object-top grayscale brightness-90 hover:scale-[1.03] transition-transform duration-[1.5s]"
                     referrerPolicy="no-referrer"
                   />
                   <div className="absolute inset-0 bg-linear-to-t from-black/80 via-black/10 to-transparent pointer-events-none" />
